@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%8E%93+4th+Year+CS+Alchemist;%F0%9F%92%BB+Power+Platform+Maestro;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Automation+Evangelist;%F0%9F%93%81+Building+Digital+Brains" alt="Animated header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%8E%93+4th+Year+CS+Alchemist;%F0%9F%92%BB+Power+Platform+Maestro;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Automation+Aficionado;%F0%9F%93%81+Building+Digital+Brains" alt="Animated header" />
 </p>
 
 ---
