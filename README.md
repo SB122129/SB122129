@@ -29,7 +29,7 @@ class Samson:
         self.current_work = "⚡ Architecting Power Platform Solutions"
         self.skills = {
             'languages': ['Python', 'JavaScript', 'C++'],
-            'platforms': ['Power Apps', 'Power Automate', 'Django'],
+            'platforms': ['Power Apps', 'Power Automate', 'Django','Express','Node','Next'],
             'databases': ['Dataverse', 'PostgreSQL', 'MySQL']
         }
         self.mantra = "Automate All The Things!"
@@ -50,6 +50,10 @@ class Samson:
   <img src="https://img.shields.io/badge/Power_Platform-7322D1?style=flat-square&logo=microsoft-power-platform&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
 ### **Data Wizardry**
@@ -65,6 +69,7 @@ class Samson:
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=flat-square&logo=postman&logoColor=white" />
 </p>
+
 
 ---
 
